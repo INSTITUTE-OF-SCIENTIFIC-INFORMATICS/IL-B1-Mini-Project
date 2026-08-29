@@ -1,0 +1,88 @@
+{
+  "molecules": [
+    {
+      "id": 1,
+      "name": "Water",
+      "smiles": "O",
+      "formula": "H2O",
+      "contributor": "ISI Team"
+    },
+    {
+      "id": 2,
+      "name": "Methane",
+      "smiles": "C",
+      "formula": "CH4",
+      "contributor": "ISI Team"
+    },
+    {
+      "id": 3,
+      "name": "Ethanol",
+      "smiles": "CCO",
+      "formula": "C2H6O",
+      "contributor": "ISI Team"
+    },
+    {
+      "id": 4,
+      "name": "Benzene",
+      "smiles": "c1ccccc1",
+      "formula": "C6H6",
+      "contributor": "ISI Team"
+    },
+    {
+      "id": 5,
+      "name": "Aspirin",
+      "smiles": "CC(=O)Oc1ccccc1C(=O)O",
+      "formula": "C9H8O4",
+      "contributor": "ISI Team"
+    },
+    {
+      "id": 6,
+      "name": "Student 1 - Add your molecule here",
+      "smiles": "",
+      "formula": "",
+      "contributor": ""
+    },
+    {
+      "id": 7,
+      "name": "Student 2 - Add your molecule here",
+      "smiles": "",
+      "formula": "",
+      "contributor": ""
+    },
+    {
+      "id": 8,
+      "name": "Student 3 - Add your molecule here",
+      "smiles": "",
+      "formula": "",
+      "contributor": ""
+    },
+    {
+      "id": 9,
+      "name": "Student 4 - Add your molecule here",
+      "smiles": "",
+      "formula": "",
+      "contributor": ""
+    },
+    {
+      "id": 10,
+      "name": "Student 5 - Add your molecule here",
+      "smiles": "",
+      "formula": "",
+      "contributor": ""
+    },
+    {
+      "id": 11,
+      "name": "Student 6 - Add your molecule here",
+      "smiles": "",
+      "formula": "",
+      "contributor": ""
+    },
+    {
+      "id": 12,
+      "name": "Student 7 - Add your molecule here",
+      "smiles": "",
+      "formula": "",
+      "contributor": ""
+    }
+  ]
+}

@@ -37,10 +37,10 @@
     },
     {
       "id": 6,
-      "name": "Student 1 - Add your molecule here",
-      "smiles": "",
-      "formula": "",
-      "contributor": ""
+      "name": "Student 1 - Phenol",
+      "smiles": "C1=CC=C(C=C1)O",
+      "formula": "C6H6O",
+      "contributor": "Dhanushi Sadilka"
     },
     {
       "id": 7,

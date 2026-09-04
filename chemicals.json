@@ -37,10 +37,10 @@
     },
     {
       "id": 6,
-      "name": "Student 1 - Add your molecule here",
-      "smiles": "",
-      "formula": "",
-      "contributor": ""
+      "name": "Carbon dioxide",
+      "smiles": "C(=O)=O",
+      "formula": "CO2",
+      "contributor": "Hirushi Fernando"
     },
     {
       "id": 7,

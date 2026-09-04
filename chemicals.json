@@ -37,10 +37,10 @@
     },
     {
       "id": 6,
-      "name": "Student 1 - Add your molecule here",
-      "smiles": "",
-      "formula": "",
-      "contributor": ""
+      "name": "Psilocybin",
+      "smiles": "CN(C)CCC1=CNC2=C1C(=CC=C2)OP(=O)(O)O",
+      "formula": "C12H17N2O4P",
+      "contributor": "Pahanma Methsiluni"
     },
     {
       "id": 7,

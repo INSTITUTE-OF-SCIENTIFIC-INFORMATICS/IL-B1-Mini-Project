@@ -37,10 +37,10 @@
     },
     {
       "id": 6,
-      "name": "Student 1 - Add your molecule here",
-      "smiles": "",
-      "formula": "",
-      "contributor": ""
+      "name": "Paracetamol (Acetaminophen)",
+      "smiles": "CC(=O)NC1=CC=C(C=C1)O",
+      "formula": "C8H9NO2",
+      "contributor": "Janith Madhusanka"
     },
     {
       "id": 7,

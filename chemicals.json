@@ -37,10 +37,10 @@
     },
     {
       "id": 6,
-      "name": "Student 1 - Add your molecule here",
-      "smiles": "",
-      "formula": "",
-      "contributor": ""
+      "name": "Naphthalene",
+      "smiles": "C1=CC=C2C=CC=CC2=C1",
+      "formula": "C10H8",
+      "contributor": "Chathushika Basnayake"
     },
     {
       "id": 7,

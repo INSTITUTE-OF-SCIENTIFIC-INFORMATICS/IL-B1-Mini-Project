@@ -37,10 +37,10 @@
     },
     {
       "id": 6,
-      "name": "Student 1 - Add your molecule here",
-      "smiles": "",
-      "formula": "",
-      "contributor": ""
+      "name": "Penicillin G",
+      "smiles": "CC1([C@@H](N2[C@H](S1)[C@@H](C2=O)NC(=O)CC3=CC=CC=C3)C(=O)O)C",
+      "formula": "C16H18N2O4S",
+      "contributor": "Tharusha Miyuranga"
     },
     {
       "id": 7,

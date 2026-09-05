@@ -41,6 +41,10 @@
       "smiles": "CC1([C@@H](N2[C@H](S1)[C@@H](C2=O)NC(=O)CC3=CC=CC=C3)C(=O)O)C",
       "formula": "C16H18N2O4S",
       "contributor": "Tharusha Miyuranga"
+      "name": "dopamine",
+      "smiles": "C1=CC(=C(C=C1CCN)O)O",
+      "formula": "C8H11NO2",
+      "contributor": "ISI Team"
     },
     {
       "id": 7,
